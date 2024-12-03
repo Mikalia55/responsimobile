@@ -1,0 +1,7 @@
+{
+  "name": "responsi-mobil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
